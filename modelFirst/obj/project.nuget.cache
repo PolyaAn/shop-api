@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "vJIKT4xfKc6UltA2AvFRSBJH6nqCSihgUkyOgd5/xqW5LIyoJ0gexuHKidPCiW4v3qw910B6b2m6EcCjI+odUQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ildar\\source\\repos\\shop\\modelFirst\\modelFirst.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ildar\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\ildar\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

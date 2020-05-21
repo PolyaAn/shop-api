@@ -1,0 +1,18 @@
+C:\Users\ildar\source\repos\shop\ShopModels\bin\Debug\netcoreapp3.1\ShopModels.deps.json
+C:\Users\ildar\source\repos\shop\ShopModels\bin\Debug\netcoreapp3.1\ShopModels.dll
+C:\Users\ildar\source\repos\shop\ShopModels\obj\Debug\netcoreapp3.1\ShopModels.csprojAssemblyReference.cache
+C:\Users\ildar\source\repos\shop\ShopModels\obj\Debug\netcoreapp3.1\ShopModels.AssemblyInfoInputs.cache
+C:\Users\ildar\source\repos\shop\ShopModels\obj\Debug\netcoreapp3.1\ShopModels.AssemblyInfo.cs
+C:\Users\ildar\source\repos\shop\ShopModels\bin\Debug\netcoreapp3.1\ShopModels.pdb
+C:\Users\ildar\source\repos\shop\ShopModels\obj\Debug\netcoreapp3.1\ShopModels.dll
+C:\Users\ildar\source\repos\shop\ShopModels\obj\Debug\netcoreapp3.1\ShopModels.pdb
+C:\Users\ildar\source\repos\shop\ShopModels\obj\Debug\netcoreapp3.1\ShopModels.csproj.CoreCompileInputs.cache
+E:\универ\3 курс\6 семестр\Папилина\ЛР2\shop\ShopModels\bin\Debug\netcoreapp3.1\ShopModels.deps.json
+E:\универ\3 курс\6 семестр\Папилина\ЛР2\shop\ShopModels\bin\Debug\netcoreapp3.1\ShopModels.dll
+E:\универ\3 курс\6 семестр\Папилина\ЛР2\shop\ShopModels\bin\Debug\netcoreapp3.1\ShopModels.pdb
+E:\универ\3 курс\6 семестр\Папилина\ЛР2\shop\ShopModels\obj\Debug\netcoreapp3.1\ShopModels.csprojAssemblyReference.cache
+E:\универ\3 курс\6 семестр\Папилина\ЛР2\shop\ShopModels\obj\Debug\netcoreapp3.1\ShopModels.csproj.CoreCompileInputs.cache
+E:\универ\3 курс\6 семестр\Папилина\ЛР2\shop\ShopModels\obj\Debug\netcoreapp3.1\ShopModels.AssemblyInfoInputs.cache
+E:\универ\3 курс\6 семестр\Папилина\ЛР2\shop\ShopModels\obj\Debug\netcoreapp3.1\ShopModels.AssemblyInfo.cs
+E:\универ\3 курс\6 семестр\Папилина\ЛР2\shop\ShopModels\obj\Debug\netcoreapp3.1\ShopModels.dll
+E:\универ\3 курс\6 семестр\Папилина\ЛР2\shop\ShopModels\obj\Debug\netcoreapp3.1\ShopModels.pdb
